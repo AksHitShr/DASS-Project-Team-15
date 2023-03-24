@@ -20,3 +20,9 @@
 
 > Task-3:
   Making a flutter app with multiple navigatable screens and vehicle options on a particular screen which announces vehicle information on clicking along with a pop-up/alert for the vehicle.
+
+> Task-4:
+  Extension of task-3. Used JSON data provided by client to output notifications as speech.
+  
+> Task-5:
+  Created the UI for home page for client's app and implemented text to speech feature which outputs the amount of fuel theft for the last week and month on opening the page.
