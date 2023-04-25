@@ -26,3 +26,6 @@
   
 > Task-5:
   Created the UI for home page for client's app and implemented text to speech feature which outputs the amount of fuel theft for the last week and month on opening the page.
+
+> Final Code:
+  The files included in this code folder include all folders necessary to run the app except for the build, android and ios folders which contain code that has not been changed after creating the project, except for the AndroidManifest.xml file which needs to replace the standard one.
